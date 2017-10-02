@@ -1,0 +1,24 @@
+
+********  Description  ********
+
+This archive contains a test sample of the 4D View Solutions 4D image sequences.
+
+
+
+
+
+
+********  Legal notice  ********
+
+
+The content (code, sample images, sample data, documentation, binary files) of this archive is the exclusive property of 4D View Solutions SAS.
+
+This content can not be disclosed either in total or in part to any third parties without the written consent of 4D View Solutions SAS.
+
+The sample data can only be used for testing 4D View Solutions products and can not be used for any commercial or non-commercial project.
+
+All software included in this archive is covered by 4D View Solutions End User License Agreement (EULA).
+
+Additional license information may be provided with the downloaded file(s) and/or with accompanying software licenses.
+
+This license is governed by French law.
